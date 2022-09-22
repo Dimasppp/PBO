@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Reflection.Metadata;
 
 namespace PBO_Inheritance_Module // Note: actual namespace depends on the project name.
@@ -16,15 +16,6 @@ namespace PBO_Inheritance_Module // Note: actual namespace depends on the projec
             Console.WriteLine("Mesin mobil " + merk + " bertipe " + tipe + " mati");
         }
 
-        public void NyalakanLampu()
-        {
-            Console.WriteLine("Lampu mobil " + merk + " bertipe " + tipe + " menyala");
-        }
-
-        public void VtecKickedIn()
-        {
-            Console.WriteLine("Ngeeeng Wooosh!!!");
-        }
 
         //atribut
         public string merk;
@@ -63,6 +54,11 @@ namespace PBO_Inheritance_Module // Note: actual namespace depends on the projec
         {
             tipe = "Avanza";
         }
+        public void NyalakanLampu()
+        {
+            Console.WriteLine("Lampu mobil " + merk + " bertipe " + tipe + " menyala");
+        }
+
     }
 
     public class Daihatsu : Mobil
@@ -111,6 +107,10 @@ namespace PBO_Inheritance_Module // Note: actual namespace depends on the projec
         public Civic()
         {
             tipe = "Civic";
+        }
+        public void VtecKickedIn()
+        {
+            Console.WriteLine("Ngeeeng Wooosh!!!");
         }
     }
 
