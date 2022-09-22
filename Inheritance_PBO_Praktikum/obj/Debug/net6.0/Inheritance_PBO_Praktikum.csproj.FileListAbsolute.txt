@@ -1,0 +1,15 @@
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\bin\Debug\net6.0\Inheritance_PBO_Praktikum.exe
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\bin\Debug\net6.0\Inheritance_PBO_Praktikum.deps.json
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\bin\Debug\net6.0\Inheritance_PBO_Praktikum.runtimeconfig.json
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\bin\Debug\net6.0\Inheritance_PBO_Praktikum.dll
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\bin\Debug\net6.0\Inheritance_PBO_Praktikum.pdb
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.csproj.AssemblyReference.cache
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.AssemblyInfoInputs.cache
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.AssemblyInfo.cs
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.dll
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\refint\Inheritance_PBO_Praktikum.dll
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.pdb
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\Inheritance_PBO_Praktikum.genruntimeconfig.cache
+C:\Users\Dimasbs\source\repos\Inheritance_PBO_Praktikum\Inheritance_PBO_Praktikum\obj\Debug\net6.0\ref\Inheritance_PBO_Praktikum.dll
